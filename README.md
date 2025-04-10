@@ -7,7 +7,7 @@
 
 >I'm currently working on Portfolio Website
                 
->Ask me about HTML,CSS,Python
+>Ask me about HTML,CSS,Python,C,C++,Java
 
 >📫 How to reach me rick24022005@gmail.com
 
